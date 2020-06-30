@@ -1,5 +1,7 @@
 # socks5_list
 
-Just another proxy list SOCKS5 ¯ \ _ (ツ) _ / ¯
+> Thank you to the https://www.proxy-list.download for providing a free list ❤️
 
-P.S. Needs additional check.
+Be sure to read: https://www.proxy-list.download/Disclaimer
+
+P.S. Powered by https://www.proxy-list.download/api/v1
