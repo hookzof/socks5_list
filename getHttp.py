@@ -8,8 +8,6 @@
 #      python3 gethttp.py  [/path/to/proxychains.conf]
 
 
-
-
 import requests
 import urllib3
 import json
@@ -49,8 +47,7 @@ def get_socks5(proxychains_path):
             item_dict = json.loads(item)
              
             if "http" == item_dict['type'] and "high_anonymous" == item_dict['anonymity']:
-                socks_item = item_dict['type'] +"\t" + item_dict['host'] + "\t" + str(item_dict['port'])+"\n"
-                socks_list += socks_item
+                socks_list += item_dict['type'] +"\t" + item_dict['host'] + "\t" + str(item_dict['port'])+"\n"
             print(socks_list)
             
         # with open("/usr/local/etc/proxychains.conf",'a+') as f:
