@@ -1,7 +1,7 @@
 <html>
-<head><title>500 Internal Server Error</title></head>
+<head><title>504 Gateway Time-out</title></head>
 <body>
-<center><h1>500 Internal Server Error</h1></center>
+<center><h1>504 Gateway Time-out</h1></center>
 <hr><center>nginx/1.18.0 (Ubuntu)</center>
 </body>
 </html>
