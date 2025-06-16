@@ -29,15 +29,15 @@ a,a:visited{
 	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
 		We're busy updating the server.<br>
 		Please check back in 15 minutes.
-		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2243464f4b4c624a4b46474f5b0c4c434f47">[email&#160;protected]</a><br><br>
+		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d8b9bcb5b1b698b0b1bcbdb5a1f6b6b9b5bd">[email&#160;protected]</a><br><br>
 		
 		Мы заняты обновлением сервера.<br>
 		Пожалуйста, проверьте через 15 минут.<br>
-		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ef8e8b828681af87868b8a8296c1818e828a">[email&#160;protected]</a>
+		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e786838a8e89a78f8e83828a9ec989868a82">[email&#160;protected]</a>
 		<br><br>
 		我们正在更新服务器。<br>
 		请在2小时后再次查看。<br>
-		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b0d1d4ddd9def0d8d9d4d5ddc99eded1ddd5">[email&#160;protected]</a>
+		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dbbabfb6b2b59bb3b2bfbeb6a2f5b5bab6be">[email&#160;protected]</a>
 
 	</div>
 </div>
