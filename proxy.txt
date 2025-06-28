@@ -1,44 +1,45 @@
-45.146.130.19:6924
-51.210.111.216:62160
-66.42.224.229:41679
-174.77.111.196:4145
-66.42.224.229:41679
-103.148.112.247:8199
-69.61.200.104:36181
-174.64.199.79:4145
-147.45.178.211:14658
-72.49.49.11:31034
-88.198.212.91:3128
-37.18.73.60:5566
-72.195.34.59:4145
-45.146.130.35:19973
-192.95.33.162:10036
-47.76.249.160:8888
-103.174.236.57:1081
-103.118.175.165:8199
-192.95.33.162:15735
-159.138.157.44:8080
-192.95.33.162:2887
-192.95.33.162:29981
-192.95.33.162:33513
-159.203.61.169:1080
-83.222.114.149:443
-205.209.113.242:1080
-138.68.60.8:1080
-47.237.67.253:8888
-31.42.185.134:1080
-192.95.33.162:10974
-103.174.123.133:8199
-103.160.205.238:8199
-51.210.111.216:11926
-161.49.116.131:1338
-139.59.1.14:1080
-161.35.70.249:1080
-198.199.86.11:1080
-209.97.150.167:1080
-192.227.140.120:8888
-208.102.51.6:58208
-216.68.128.121:4145
-57.129.81.201:1080
-51.75.126.150:2184
-51.210.111.216:16466
+<html>
+<head>
+	<meta charset="UTF-8">
+<title>Maintenance</title>
+<style>
+html,body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+a,a:visited{
+	color: #1C98D7;
+}
+.cd {
+	font-family: Arial;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+</style>
+</head>
+<body>
+<div class="cd">
+	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
+	<h1>We'll be back.</h1>
+	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
+		We're busy updating the server.<br>
+		Please check back in 15 minutes.
+		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or admin@hidemy.name<br><br>
+		
+		Мы заняты обновлением сервера.<br>
+		Пожалуйста, проверьте через 15 минут.<br>
+		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или admin@hidemy.name
+		<br><br>
+		我们正在更新服务器。<br>
+		请在2小时后再次查看。<br>
+		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或admin@hidemy.name
+
+	</div>
+</div>
+</body>
+</html>
