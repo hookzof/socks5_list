@@ -1,45 +1,19 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-<title>Maintenance</title>
-<style>
-html,body {
-	margin: 0;
-	padding: 0;
-	height: 100%;
-}
-a,a:visited{
-	color: #1C98D7;
-}
-.cd {
-	font-family: Arial;
-	height: 100%;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	text-align: center;
-	justify-content: center;
-}
-</style>
-</head>
-<body>
-<div class="cd">
-	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
-	<h1>We'll be back.</h1>
-	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
-		We're busy updating the server.<br>
-		Please check back in 15 minutes.
-		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or admin@hidemy.name<br><br>
-		
-		Мы заняты обновлением сервера.<br>
-		Пожалуйста, проверьте через 15 минут.<br>
-		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или admin@hidemy.name
-		<br><br>
-		我们正在更新服务器。<br>
-		请在2小时后再次查看。<br>
-		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或admin@hidemy.name
-
-	</div>
-</div>
-</body>
-</html>
+212.124.22.245:1080
+51.250.108.153:1080
+37.18.73.60:5566
+205.209.113.242:1080
+212.47.243.66:16379
+123.143.162.221:6388
+168.245.197.146:80
+34.124.190.108:8080
+51.75.126.150:3639
+192.95.33.162:24794
+163.172.153.82:16379
+128.199.202.122:1080
+138.68.60.8:1080
+161.35.70.249:1080
+57.129.81.201:1080
+103.245.205.142:35158
+185.10.129.14:3128
+82.200.235.134:18508
+139.59.1.14:1080
