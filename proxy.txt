@@ -1,39 +1,45 @@
-160.25.8.67:11011
-64.225.49.248:1080
-183.96.222.70:28572
-31.128.41.253:28080
-47.236.92.109:33333
-47.238.37.111:1011
-94.241.173.209:1080
-117.161.170.163:9267
-103.82.27.24:10001
-37.18.73.60:5566
-47.79.22.55:1011
-43.133.32.76:1777
-221.202.27.194:10808
-203.25.208.163:1011
-66.42.224.229:41679
-47.243.18.3:1100
-223.25.110.37:8199
-159.223.164.184:20201
-137.184.152.66:20002
-8.219.172.7:1011
-121.169.46.116:1090
-43.157.34.94:1777
-89.43.31.134:3128
-170.233.30.33:4153
-202.74.243.130:1080
-91.121.106.55:8118
-43.251.86.69:1080
-138.68.60.8:1080
-37.187.29.43:17612
-160.19.16.86:1080
-87.107.48.53:1080
-43.131.9.114:1777
-159.203.61.169:1080
-198.199.86.11:1080
-36.110.143.55:8080
-110.242.70.68:443
-88.198.212.91:3128
-134.209.29.120:1080
-198.54.124.88:8080
+<html>
+<head>
+	<meta charset="UTF-8">
+<title>Maintenance</title>
+<style>
+html,body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+a,a:visited{
+	color: #1C98D7;
+}
+.cd {
+	font-family: Arial;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+</style>
+</head>
+<body>
+<div class="cd">
+	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
+	<h1>We'll be back.</h1>
+	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
+		We're busy updating the server.<br>
+		Please check back in 15 minutes.
+		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or admin@hidemy.name<br><br>
+		
+		Мы заняты обновлением сервера.<br>
+		Пожалуйста, проверьте через 15 минут.<br>
+		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или admin@hidemy.name
+		<br><br>
+		我们正在更新服务器。<br>
+		请在2小时后再次查看。<br>
+		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或admin@hidemy.name
+
+	</div>
+</div>
+</body>
+</html>
