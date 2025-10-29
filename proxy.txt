@@ -1,45 +1,41 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-<title>Maintenance</title>
-<style>
-html,body {
-	margin: 0;
-	padding: 0;
-	height: 100%;
-}
-a,a:visited{
-	color: #1C98D7;
-}
-.cd {
-	font-family: Arial;
-	height: 100%;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	text-align: center;
-	justify-content: center;
-}
-</style>
-</head>
-<body>
-<div class="cd">
-	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
-	<h1>We'll be back.</h1>
-	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
-		We're busy updating the server.<br>
-		Please check back in 15 minutes.
-		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or admin@hidemy.name<br><br>
-		
-		Мы заняты обновлением сервера.<br>
-		Пожалуйста, проверьте через 15 минут.<br>
-		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или admin@hidemy.name
-		<br><br>
-		我们正在更新服务器。<br>
-		请在2小时后再次查看。<br>
-		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或admin@hidemy.name
-
-	</div>
-</div>
-</body>
-</html>
+134.209.29.120:1080
+162.214.3.183:3128
+184.178.172.5:15303
+94.139.182.6:443
+78.157.57.71:3128
+34.41.115.197:3128
+34.124.190.108:8080
+117.161.170.163:9492
+103.76.149.140:1080
+113.212.109.40:1080
+121.169.46.116:1090
+184.182.240.211:4145
+184.181.217.220:4145
+174.77.111.198:49547
+36.110.143.55:8080
+111.61.73.175:7302
+184.181.217.210:4145
+184.178.172.13:15311
+184.181.217.194:4145
+47.245.88.205:1100
+184.178.172.11:4145
+190.119.160.26:56160
+194.238.27.111:3128
+88.198.212.91:3128
+47.237.172.201:1011
+134.199.159.23:1080
+212.237.125.216:6969
+37.18.73.60:5566
+138.199.25.13:3906
+163.223.231.155:59152
+110.242.70.68:443
+89.43.31.134:3128
+154.38.180.176:443
+202.178.120.30:1080
+47.239.10.156:1100
+223.25.109.146:8199
+192.104.242.158:4145
+47.239.132.17:1100
+139.162.78.109:1080
+159.203.61.169:1080
+39.187.67.194:1080
