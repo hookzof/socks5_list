@@ -1,15 +1,45 @@
-158.160.215.167:8126
-194.163.167.32:1080
-5.255.113.177:1080
-5.255.117.127:1080
-121.169.46.116:1090
-159.223.53.194:1080
-20.210.113.32:8123
-37.18.73.60:5566
-104.219.236.127:1080
-43.160.195.20:20005
-110.242.70.68:443
-141.11.42.163:1080
-113.59.32.161:22222
-120.232.242.120:22222
-162.214.3.183:3128
+<html>
+<head>
+	<meta charset="UTF-8">
+<title>Maintenance</title>
+<style>
+html,body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+a,a:visited{
+	color: #1C98D7;
+}
+.cd {
+	font-family: Arial;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+</style>
+</head>
+<body>
+<div class="cd">
+	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
+	<h1>We'll be back.</h1>
+	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
+		We're busy updating the server.<br>
+		Please check back in 15 minutes.
+		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or admin@hidemy.name<br><br>
+		
+		Мы заняты обновлением сервера.<br>
+		Пожалуйста, проверьте через 15 минут.<br>
+		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или admin@hidemy.name
+		<br><br>
+		我们正在更新服务器。<br>
+		请在2小时后再次查看。<br>
+		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或admin@hidemy.name
+
+	</div>
+</div>
+</body>
+</html>
