@@ -1,45 +1,39 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-<title>Maintenance</title>
-<style>
-html,body {
-	margin: 0;
-	padding: 0;
-	height: 100%;
-}
-a,a:visited{
-	color: #1C98D7;
-}
-.cd {
-	font-family: Arial;
-	height: 100%;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	text-align: center;
-	justify-content: center;
-}
-</style>
-</head>
-<body>
-<div class="cd">
-	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
-	<h1>We'll be back.</h1>
-	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
-		We're busy updating the server.<br>
-		Please check back in 15 minutes.
-		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or admin@hidemy.name<br><br>
-		
-		Мы заняты обновлением сервера.<br>
-		Пожалуйста, проверьте через 15 минут.<br>
-		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или admin@hidemy.name
-		<br><br>
-		我们正在更新服务器。<br>
-		请在2小时后再次查看。<br>
-		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或admin@hidemy.name
-
-	</div>
-</div>
-</body>
-</html>
+98.191.0.37:4145
+98.170.57.249:4145
+198.177.252.24:4145
+208.65.90.3:4145
+98.175.31.195:4145
+198.177.254.131:4145
+198.177.254.157:4145
+107.181.168.145:4145
+208.65.90.21:4145
+72.195.114.184:4145
+192.111.137.37:18762
+72.207.113.97:4145
+72.195.101.99:4145
+20.24.43.214:8123
+20.24.43.214:80
+98.175.31.222:4145
+101.43.127.100:8877
+38.34.179.72:8448
+70.166.167.55:57745
+89.43.31.134:3128
+70.166.65.160:4145
+170.64.170.204:1080
+98.178.72.21:10919
+110.242.70.68:443
+98.190.239.3:4145
+70.166.167.38:57728
+160.22.200.70:69
+147.45.219.89:1080
+72.195.34.60:27391
+72.195.34.35:27360
+74.179.60.85:1080
+64.227.131.240:1080
+213.165.58.8:1080
+158.160.215.167:8127
+98.175.31.195:4145
+72.205.0.93:4145
+213.165.58.7:1080
+142.54.229.249:4145
+98.191.0.47:4145
