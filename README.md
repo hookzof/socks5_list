@@ -5,6 +5,7 @@ Source data (socks5): https://raw.githubusercontent.com/hookzof/socks5_list/mast
 
 Proxies for Telegram:  
 https://mtpro.xyz/mtproto  
+https://mtpro.xyz/webproxy  
 https://mtpro.xyz/socks5  
 
 Bot: https://t.me/mtpro_xyz_bot  
@@ -14,6 +15,7 @@ Channel: https://t.me/mtpro_xyz
 
 Прокси для Telegram (прокси для телеграмм/телеграм/тг):  
 https://mtpro.xyz/mtproto-ru  
+https://mtpro.xyz/webproxy-ru  
 https://mtpro.xyz/socks5-ru  
 
 Бот: https://t.me/mtpro_xyz_bot  
